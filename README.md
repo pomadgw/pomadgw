@@ -1,4 +1,31 @@
-### Hi there 👋
+<h1 align="center">Halo semuanya | Hi everybody | 皆さんこんにちは 👋</h1>
+
+<p align="center">
+  <a href="https://twitter.com/pomadgw"><img src="https://img.shields.io/badge/-pomadgw-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pomadgw" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/rahadianyusuf/"><img src="https://img.shields.io/badge/-Rahadian_Yusuf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahadianyusuf/" alt="Linkedin"></a>
+</p>
+
+## Introduction
+
+Hi, my name is **Rahadian Yusuf**, but you can call me **Rian**. I'm a front-end developer based in Indonesia. I'm currently working with my friends at [Bukalapak](https://www.bukalapak.com).
+
+## 🌱 Languages I know
+- JavaScript
+- CSS
+- Sass
+- Ruby
+- Python
+
+## 🔭 Stacks I know
+- Vue
+- Ruby on Rails
+- Node JS
+
+## 🤔 I want to learn these
+- Rust
+- Kotlin
+- React
+- Svelte
 
 <!--
 **pomadgw/pomadgw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
