@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Hi, my name is **Rahadian Yusuf**, but you can call me **Rian**. I'm a front-end developer based in Indonesia. I'm currently working with my friends at [Bukalapak](https://www.bukalapak.com).
+Hi, my name is **Rahadian Yusuf**, but you can call me **Rian**. I'm a front-end developer based in Indonesia.
 
 ## 🌱 Languages I know
 - JavaScript
