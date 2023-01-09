@@ -1,7 +1,7 @@
 <h1 align="center">Halo semuanya | Hi everybody | 皆さんこんにちは 👋</h1>
 
 <p align="center">
-  <a href="https://twitter.com/pomadgw"><img src="https://img.shields.io/badge/-pomadgw-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pomadgw" alt="Twitter"></a>
+  <a href="https://twitter.com/pomadgw"><img src="https://img.shields.io/badge/-pomadgw-1ca0f1?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/pomadgw" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/rahadianyusuf/"><img src="https://img.shields.io/badge/-Rahadian_Yusuf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahadianyusuf/" alt="Linkedin"></a>
 </p>
 
