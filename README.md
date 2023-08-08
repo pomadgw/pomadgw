@@ -15,16 +15,16 @@ Hi, my name is **Rahadian Yusuf**, but you can call me **Rian**. I'm a front-end
 - Sass
 - Ruby
 - Python
+- Rust
 
 ## 🔭 Stacks I know
 - Vue
 - Ruby on Rails
 - Node JS
+- React
 
 ## 🤔 I want to learn these
-- Rust
 - Kotlin
-- React
 - Svelte
 
 <!--
